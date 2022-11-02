@@ -1,5 +1,11 @@
 # sparse-checkout
 
-# Usage
+- モノリポ構成の CI で sparse checkout したい
+- 汎用的にして再利用したい
 
-you can set directory and depth.
+ために public action 化しました
+
+# Usage & Inputs
+
+See [action.yml](action.yml).
+

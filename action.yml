@@ -8,11 +8,11 @@ inputs:
     description: specify checkout directory
     required: true
   depth:
-    description: depth
+    description: specify depth for git clone
     required: false
     default: '1'
   token:
-    description: github token
+    description: github access token
     required: true
 runs:
   using: composite
