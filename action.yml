@@ -1,4 +1,4 @@
-name: sparse checkout
+name: simple sparse checkout
 description: do sparse checkout
 inputs:
   directory:
