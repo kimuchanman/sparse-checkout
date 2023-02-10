@@ -5,7 +5,7 @@ branding:
   color: orange
 inputs:
   directory:
-    description: specify checkout directory
+    description: Specify checkout directory. You can specify multiple by separating them with spaces.
     required: true
   depth:
     description: specify depth for git clone
